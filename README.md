@@ -1,22 +1,24 @@
 # CryptoCalculator
-Python calculator to convert any amount of dollars to an equivalent amount of crypto. Only works with the current top 10 cryptocurrencies on  coinmarketcap.
 
-# NOTE: This uses python3 and an extra librarie that lets me get JSON requests from coinmarketcap
+# What does it do?
 
-##  In order to run this calculator, first make sure you have Python 3 installed. If you don't have it installed you can get it [here.](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) Make sure that you add it to your PATH, there is a chechbox you tick while installing it.
+Well its a calculator written in python, its purpose is to convert any amount of dollars to an equivalent amount of crypto. Only works with the current top 10 cryptocurrencies on coinmarketcap.
 
-##  Open a command prompt window as an Administrator
+##  1. In order to run this calculator, first make sure you have Python 3 installed. If you don't have python installed; you can get it [here.](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) Make sure that you add python to your PATH, there is a checkbox that you can tick while installing it.
 
-##  Next, install the requests library for python by entering the following line of code into the command prompt:
+##  2. Open a command prompt window as an Administrator
+
+##  3. Next, install the requests library for python by entering the following line of code into the command prompt:
 
 ```bash
 pip install requests
 ```
 
-##  Finally, run the calculator. First use command prompt to navigate over to the folder in which CurrencyCalc.py is currently residing, then run the following command:
+##  4. Finally its time to run the calculator. First use command prompt to navigate over to the folder in which CurrencyCalc.py is currently residing, then run the following command:
+
 ```bash
 python CurrencyCalc.py
 ```
 
-# Happy Calculating! 
+#   5. Happy Calculating! 
 
